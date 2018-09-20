@@ -1,4 +1,6 @@
 # Chapter 1 - The way of the program
+https://www.greenteapress.com/thinkpython/thinkpython.pdf
+
 
 ## 1.1 Python Programming Language
 1. Python is a high level language.

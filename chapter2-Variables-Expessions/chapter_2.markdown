@@ -1,4 +1,6 @@
 # Chapter 2: Variables, expressions, and statements
+https://www.greenteapress.com/thinkpython/thinkpython.pdf
+
 
 ## 2.1 Values and types
  1. __values__ are something a program works with. _ex. 1,2 , 'Hello'_
