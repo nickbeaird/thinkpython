@@ -86,6 +86,35 @@ repeat_lyrics()
     * what line
     * what functions
 
+## 3.11 Fruitful functions and void function 
+1. __fruitful functions__ return a value. __Void functions__ perform an action, but don't return a value. 
+
+## 3.12 Why functions?
+1. Creating functions allows you to groups statements, which makes it easier to debug. 
+2. Make programs smaller by eliminating repetitive code. 
+3. Create larger programs from smaller sections (_functions_)
+4. Well designed functions are useful for many programs. 
+
+## 3.13 Import with from
+1. import with import
+```python
+import math
+```
+2. import with from
+```python
+from math import pi
+```
+## 3.14 Debugging
+1. save issues inherent with tabs by only using spaces. 
+2. Save your program before you run it. 
+3. Make sure that the code that you are looking at is the code that is running. 
+
+## 3.16 Exercises
+1. Figuring out the solution to the column seventy took a moment. I realized that column seventy meant seventy spaces from the left. It took me a moment to realize that I could use math an the string " " to get the length. It was fun little problem. See the attached file. 
+2. 
+
+
+
 
 
 
